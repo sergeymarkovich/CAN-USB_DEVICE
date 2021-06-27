@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=LED1-K
+Removed Member From Class: ClassName=Sheet1 Member=LED1
+Added Component: Designator=CR(LED_DIALIGHT_598_DIA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "598-8070-107F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Dialight_2012-01-01_LED_598"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Dialight"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CR-1
+Added Pin To Net: NetName=NetCR_2 Pin=CR-2
+Added Pin To Net: NetName=NetCR_2 Pin=R1-2
+Added Net: Name=NetCR_2
+Added Member To Class: ClassName=Sheet1 Member=Component CR 598-8070-107F

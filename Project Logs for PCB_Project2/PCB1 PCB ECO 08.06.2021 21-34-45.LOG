@@ -1,0 +1,501 @@
+Added Component: Designator=?(SOIC127P599X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-I/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-I/SN/Microchip/view-part/10929/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC3225X220N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "UMK325BJ106MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-2225-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µ"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC3225X220N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "UMK325BJ106MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-2225-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µ"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/ccog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/ccog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06031A180GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "100V; NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.032" W (1.60mm x 0.81mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6025-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/ccog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/ccog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06031A180GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "100V; NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.032" W (1.60mm x 0.81mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-6025-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18p"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC3225X220N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "UMK325BJ106MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-2225-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µ"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com/docs/Catalogs/cx7r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C1608X7R1H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5052-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "445-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(TO-252)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LM317MBDTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DPAK/TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "40V in-out; 500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "LM317MBDTGOS-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.04%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "variable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Regulator Type"; Value = "Adjustable Positive Linear"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(QFP50P1200X1200X160-64N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F730R8T6/STMicroelectronics/view-part/3192404/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F730R8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F730R8T6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F730R8T6/STMicroelectronics/view-part/3192404/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(TSW-105-XX-XXX-S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "July 28, 2014 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "TSW-105-XX-XXX-S"; VariantName = "[No Variations]"
+Added Component: Designator=L?(FBC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.lairdtech.com/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=4879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lairdtech.com/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=4879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "800 mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Differential Mode - Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.043" (1.09mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "600 Ohm @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Laird-Signal Integrity Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "200 mA; 800 mOhm DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "240-2562-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-0603-RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.us.kingbright.com/images/catalog/SPEC/APT1608SURCK.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.us.kingbright.com/images/catalog/SPEC/APT1608SURCK.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kingbright Company LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "APT1608SURCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "AlGaInP on GaAs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "220 mcd; 630 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-1123-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) @ 10mA"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) Typ"; Value = "1.95V"; VariantName = "[No Variations]"
+Added Component: Designator=P?(OST_USB-A1HSW6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "On Shore"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB-A1HSW6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB-A1HSW6/On%20Shore%20Technology%20Inc./view-part/13110/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(OSC_XRCHA16M000F0A01R0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=4970146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4970146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4970146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XRCHA16M000F0A01R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XRCHA16M000F0A01R0/Murata/view-part/4970146/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW0805150RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-150ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW08051K80FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-1.80KCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K8"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10KARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW0805150RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-150ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=?-3
+Added Pin To Net: NetName=+5V Pin=P?-1
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=3.3v Pin=C?-1
+Added Pin To Net: NetName=3.3v Pin=C?-1
+Added Pin To Net: NetName=3.3v Pin=C?-1
+Added Pin To Net: NetName=3.3v Pin=C?-1
+Added Pin To Net: NetName=3.3v Pin=C?-1
+Added Pin To Net: NetName=3.3v Pin=C?-2
+Added Pin To Net: NetName=3.3v Pin=DD?-1
+Added Pin To Net: NetName=3.3v Pin=DD?-13
+Added Pin To Net: NetName=3.3v Pin=DD?-19
+Added Pin To Net: NetName=3.3v Pin=DD?-32
+Added Pin To Net: NetName=3.3v Pin=DD?-64
+Added Pin To Net: NetName=3.3v Pin=J?-5
+Added Pin To Net: NetName=3.3v Pin=L?-2
+Added Net: Name=3.3v
+Added Pin To Net: NetName=D+ Pin=DD?-45
+Added Pin To Net: NetName=D+ Pin=P?-3
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=DD?-44
+Added Pin To Net: NetName=D- Pin=P?-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=?-2
+Added Pin To Net: NetName=GND Pin=?-5
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=DA?-1
+Added Pin To Net: NetName=GND Pin=DD?-12
+Added Pin To Net: NetName=GND Pin=DD?-18
+Added Pin To Net: NetName=GND Pin=DD?-31
+Added Pin To Net: NetName=GND Pin=DD?-47
+Added Pin To Net: NetName=GND Pin=DD?-63
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=LED?-K
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net?_6 Pin=?-6
+Added Pin To Net: NetName=Net?_6 Pin=J?-3
+Added Pin To Net: NetName=Net?_6 Pin=R?-2
+Added Net: Name=Net?_6
+Added Pin To Net: NetName=Net?_7 Pin=?-7
+Added Pin To Net: NetName=Net?_7 Pin=J?-2
+Added Pin To Net: NetName=Net?_7 Pin=R?-1
+Added Net: Name=Net?_7
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=DD?-6
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetDD?_37 Pin=DD?-37
+Added Pin To Net: NetName=NetDD?_37 Pin=R?-2
+Added Net: Name=NetDD?_37
+Added Pin To Net: NetName=NetDD?_59 Pin=DD?-59
+Added Pin To Net: NetName=NetDD?_59 Pin=R?-1
+Added Net: Name=NetDD?_59
+Added Pin To Net: NetName=NetDD?_60 Pin=DD?-60
+Added Pin To Net: NetName=NetDD?_60 Pin=R?-2
+Added Net: Name=NetDD?_60
+Added Pin To Net: NetName=NetLED?_A Pin=LED?-A
+Added Pin To Net: NetName=NetLED?_A Pin=R?-1
+Added Net: Name=NetLED?_A
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NRST Pin=C?-2
+Added Pin To Net: NetName=NRST Pin=DD?-7
+Added Pin To Net: NetName=NRST Pin=J?-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=RS Pin=?-8
+Added Pin To Net: NetName=RS Pin=R?-1
+Added Pin To Net: NetName=RS Pin=R?-2
+Added Net: Name=RS
+Added Pin To Net: NetName=RXD Pin=?-4
+Added Net: Name=RXD
+Added Pin To Net: NetName=SWCLK Pin=DD?-49
+Added Pin To Net: NetName=SWCLK Pin=J?-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=DD?-46
+Added Pin To Net: NetName=SWDIO Pin=J?-4
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TXD Pin=?-1
+Added Net: Name=TXD
+Added Pin To Net: NetName=VBUS Pin=DD?-42
+Added Net: Name=VBUS
+Added Class: Name=Sheet1

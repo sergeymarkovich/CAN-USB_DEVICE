@@ -1,0 +1,8 @@
+Change Component Description : Designator=Q2 Old Description=16MHz A±100ppm Crystal 8pF 100 Ohms 2-SMD, No Lead New Description=16MHz A±100ppm Crystal 8pF 100 Ohms 2-SMD, No Lead
+Change Component Description : Designator=DD1 Old Description=ARMA® CortexA®-M7 STM32F7 Microcontroller IC 32-Bit 216MHz 64KB (64K x 8) FLASH 64-LQFP (10x10) New Description=ARMA® CortexA®-M7 STM32F7 Microcontroller IC 32-Bit 216MHz 64KB (64K x 8) FLASH 64-LQFP (10x10)
+Change Component Description : Designator=J Old Description=Jack Modular Connector 8p8c _RJ45, Ethernet_ 90A° Angle _Right_ Unshielded New Description=Jack Modular Connector 8p8c _RJ45, Ethernet_ 90A° Angle _Right_ Unshielded
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=DA1-3
+Added Pin To Net: NetName=RXD Pin=DD1-61
+Added Pin To Net: NetName=TXD Pin=DD1-62

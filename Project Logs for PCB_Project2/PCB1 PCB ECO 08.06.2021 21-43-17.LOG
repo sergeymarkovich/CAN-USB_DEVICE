@@ -1,0 +1,14 @@
+Added Component: Designator=R1(RESC2012X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW08051K80FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-1.80KCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetLED1_A Pin=R1-2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Thick Film
